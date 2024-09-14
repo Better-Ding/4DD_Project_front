@@ -1,5 +1,8 @@
 # chanlv_project
 
+## Using machine learning method to make a prediction of 4200 thick plate roll grinding
+
+
 ## Project setup
 ```
 npm install
