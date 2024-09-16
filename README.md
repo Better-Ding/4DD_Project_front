@@ -1,6 +1,8 @@
-# chanlv_project
+# The frontend of 4DD_project
 
 ## Using machine learning method to make a prediction of 4200 thick plate roll grinding
+
+## Backend Available: [HERE](https://github.com/Better-Ding/4DD_Backend) 
 
 
 ## Project setup
@@ -22,6 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
